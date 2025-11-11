@@ -1,7 +1,7 @@
 # 📞 Contacts
 
 Merci de votre visite sur mon site !  
-Je suis **Grace vayisiriria**, développeur passionné par la technologie, la foi et les projets au service des communautés.
+Je suis **Katungu Kivikwamo Malkia**, développeur passionné par la technologie, la foi et les projets au service des communautés.
 
 N’hésitez pas à me contacter pour :
 - 💬 Discuter d’un projet ou d’une collaboration  

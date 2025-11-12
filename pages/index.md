@@ -128,7 +128,7 @@ layout: home
         <i class="fas fa-envelope"></i>
         M'envoyer un email
       </a>
-      <a href="https://github.com/gracevayisiriria" class="btn btn-secondary" target="_blank">
+      <a href="https://github.com/kivikwamo" class="btn btn-secondary" target="_blank">
         <i class="fab fa-github"></i>
         Voir mon GitHub
       </a>

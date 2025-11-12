@@ -1,15 +1,15 @@
-title: "Grace Vayisiriria"
+title: "Katungu Kivikwamo Malkia"
 baseline: "Développeur Etudiant passionné"
 description: "Développeur passionnée par la technologie, les projets innovants et le partage de connaissances."
 
 params:
   author: "Grace VayisiririaBlog"
-  github: "https://github.com/gracevayisiriria"
+  github: "https://github.com/kivikwamo"
   email: "grace@example.com"
   social:
     - name: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/gracevayisiriria"
+      url: "https://github.com/kivikwam"
     - name: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "#"
